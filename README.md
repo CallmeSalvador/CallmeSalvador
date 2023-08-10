@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CallmeSalvador
-- 👀 I’m interested in games
-- 🌱 I’m currently learning kotlin
-- 📫 How to reach me: just say hi and intruduce yourself
+- 👋 Hi, I’m @CallmeSalvador/ Oi, eu sou @Me chame de salvador
+- 👀 I’m interested in games/ Eu me interesso por jogos
+- 🌱 I’m currently learning java/ Estou atualmente aprendendo java
+- 📫 How to reach me: just say hi and intruduce yourself/ Como chegar até mim: apenas diga oi e se introduza
 
 <!---
 CallmeSalvador/CallmeSalvador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
