@@ -3,6 +3,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabi_salvador.png/)
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![godotEngine](https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white)
+![css](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![c](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 
 Olá eu sou a gabi, mas você pode me chamar de Salvador.
 Eu sou uma estudante de engenharia da computação no Centro Universitário Santo André e uma artista amadora, que sempre busca por novos conhecimentos e desafios, por isso, atualmente estou aprendendo __JAVA__. Eu também sou uma nerd que adora livros, mangas, jogos e etc, e estou sempre aberta para novas amizades, é só dizer oi e se introduzir.
